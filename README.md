@@ -1,98 +1,114 @@
-<h2 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:17px;font-family:"Calibri",sans-serif;color:#4F81BD;'><span style="font-size: 20px;">Privacy Policy</span></h2>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Last updated: February 15, 2024</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/"><span style="color:windowtext;text-decoration:none;">Free Privacy Policy Generator</span></a>.</p>
-<h2 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:17px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Interpretation and Definitions</h2>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Interpretation</h3>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Definitions</h3>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>For the purposes of this Privacy Policy:</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Application</strong> refers to Psikopedia, the software program provided by the Company.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Psikopedia.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Country</strong> refers to: Turkey</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Personal Data</strong> is any information that relates to an identified or identifiable individual.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Service</strong> refers to the Application.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Service Provider</strong> means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>Usage Data</strong> refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
-<h2 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:17px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Collecting and Using Your Personal Data</h2>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Types of Data Collected</h3>
-<h4 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;font-style:italic;'>Personal Data</h4>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:</p>
-<div style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>
-    <ul style="margin-bottom:0cm;list-style-type: disc;">
-        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Usage Data</li>
-    </ul>
-</div>
-<h4 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;font-style:italic;'>Usage Data</h4>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Usage Data is collected automatically when using the Service.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Usage Data may include information such as Your Device&apos;s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Use of Your Personal Data</h3>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>The Company may use Personal Data for the following purposes:</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>To manage Your Account:</strong> to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>For the performance of a contract:</strong> the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>To contact You:</strong> To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application&apos;s push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>To provide You</strong> with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>To manage Your requests:</strong> To attend and manage Your requests to Us.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>For business transfers:</strong> We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:36.0pt;line-height:115%;font-size:15px;font-family:"Cambria",serif;'><strong>For other purposes</strong>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>We may share Your personal information in the following situations:</p>
-<ul style="list-style-type: disc;">
-    <li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.</li>
-    <li><strong>For business transfers:</strong> We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.</li>
-    <li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>
-    <li><strong>With business partners:</strong> We may share Your information with Our business partners to offer You certain products, services or promotions.</li>
-    <li><strong>With other users:</strong> when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.</li>
-    <li><strong>With Your consent</strong>: We may disclose Your personal information for any other purpose with Your consent.</li>
-</ul>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Retention of Your Personal Data</h3>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.</p>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Transfer of Your Personal Data</h3>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Your information, including Personal Data, is processed at the Company&apos;s operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to &mdash; and maintained on &mdash; computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.</p>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Delete Your Personal Data</h3>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Our Service may give You the ability to delete certain information about You from within the Service.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.</p>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Disclosure of Your Personal Data</h3>
-<h4 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;font-style:italic;'>Business Transactions</h4>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.</p>
-<h4 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;font-style:italic;'>Law enforcement</h4>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p>
-<h4 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;font-style:italic;'>Other legal requirements</h4>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:</p>
-<ul style="list-style-type: disc;">
-    <li>Comply with a legal obligation</li>
-    <li>Protect and defend the rights or property of the Company</li>
-    <li>Prevent or investigate possible wrongdoing in connection with the Service</li>
-    <li>Protect the personal safety of Users of the Service or the public</li>
-    <li>Protect against legal liability</li>
-</ul>
-<h3 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Security of Your Personal Data</h3>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
-<h2 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:17px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Children&apos;s Privacy</h2>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent&apos;s consent before We collect and use that information.</p>
-<h2 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:17px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Links to Other Websites</h2>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party&apos;s site. We strongly advise You to review the Privacy Policy of every site You visit.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-<h2 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:17px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Changes to this Privacy Policy</h2>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
-<h2 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:17px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Contact Us</h2>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>If you have any questions about this Privacy Policy, You can contact us:</p>
-<div style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>
-    <ul style="margin-bottom:0cm;list-style-type: disc;">
-        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>By email: hello@psikopedia.app</li>
-    </ul>
-</div>
+# Privacy Policy — UP⁺
+
+Last Updated: 2026/5/17
+
+## 1. Acceptance of Terms
+
+UP⁺ ("UP⁺", formerly Psychpedia; "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy applies to UP⁺ and its various versions and is part of our Terms of Use. By accessing or using our Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described here.
+
+**None of the data collected by this app is linked to your identity.**
+
+## 2. Data We Collect
+
+We collect the following categories of data, none of which is linked to your identity:
+
+### Identifiers
+
+**Device ID** — Used for Analytics, and Other Purposes
+
+An anonymous device identifier is collected to deliver analytics and to associate purchase entitlements with your device. This identifier is not linked to your personal identity.
+
+### Purchases
+
+**Purchase History** — Used for App Functionality, and Analytics
+
+If you make in-app purchases, transaction data is processed by Apple and RevenueCat to manage your subscription. This data is used to provide access to premium features and to analyze purchasing trends in aggregate.
+
+### Usage Data
+
+**Product Interaction** — Used for Analytics
+
+We collect anonymous data about how you interact with the app (e.g., screens viewed, content opened, features used) through Firebase Analytics and Mixpanel. This helps us understand how the app is used and identify areas for improvement.
+
+### Diagnostics
+
+**Crash Data** — Used for App Functionality
+
+Crash reports are collected through Firebase Crashlytics to help us identify and fix issues that affect app stability.
+
+**Other Diagnostic Data** — Used for App Functionality, and Analytics
+
+Additional diagnostic information (e.g., performance metrics, error logs) may be collected to monitor app health and improve reliability.
+
+## 3. Data That Stays on Your Device
+
+The following data is stored **only on your device** and is **never transmitted** to us or any third party:
+
+- **Mood entries.** The daily mood you select on the mood calendar is stored locally in your device's secure storage. We do not see, sync, or back it up.
+- **Onboarding answers.** Your responses to the onboarding questions (goals, focus areas, anxiety/stress frequency, sleep quality, etc.) are stored locally to personalize the app experience. They are not sent to our servers or third parties.
+- **App preferences.** Settings such as language and content visibility are stored locally.
+
+If you delete the app, all locally-stored data is removed.
+
+## 4. Photos and Face Data
+
+UP⁺ does **not** request, capture, upload, store, or process any photos, videos, face data, or biometric information. The app contains no camera flow and no AI image processing.
+
+## 5. Third-Party Services
+
+We use the following third-party services:
+
+- **Firebase Analytics** — Anonymous usage analytics. Collects device identifiers and product interaction data.
+- **Firebase Crashlytics** — Crash reporting and diagnostics.
+- **Firebase Remote Config** — App configuration delivery. No user data collected.
+- **Mixpanel** — Anonymous product analytics. Collects device identifiers and screen-view events.
+- **RevenueCat** — Subscription and purchase management. Collects device identifiers and purchase history to manage entitlements.
+- **Apple In-App Purchases** — Secure transaction handling.
+
+These services process data only to the extent required for their core functions. None of the data collected is linked to your personal identity.
+
+## 6. Third-Party Content
+
+UP⁺ contains short educational content about psychology, including:
+
+- **Book reviews and summaries** — references to published works such as *Sapiens*, *The Unbearable Lightness of Being*, *Animal Farm*, etc. These summaries are our own commentary on widely-known psychology and literature works under fair-use/educational principles.
+- **Embedded YouTube videos** — links to publicly available videos from third-party channels (TED, TED-Ed, TEDx, and other psychology educators). Playback is provided by YouTube under YouTube's terms; we do not host the video content.
+- **Course material** — original educational content authored by us, citing public psychological research where relevant.
+
+Trademarks, book titles, author names, and other third-party references remain the property of their respective owners.
+
+## 7. Data Retention
+
+- **Analytics and diagnostics:** Retained in anonymous, aggregated form by third-party providers according to their own retention policies.
+- **Purchase information:** Managed by Apple and RevenueCat under their respective privacy and retention policies.
+- **Local data (mood, onboarding answers, preferences):** Retained on your device until you delete the app or clear the data manually.
+- **No user data is linked to personal identity.**
+
+## 8. Data Security
+
+- All data transmission between your device and third-party providers is encrypted using industry-standard protocols.
+- Locally-stored data is protected by iOS sandboxing.
+- No employee has access to any personally-identifiable information.
+- We apply appropriate technical and organizational measures to protect your data. While no system can guarantee 100% security, we continuously work to safeguard your information.
+
+## 9. Children's Privacy
+
+UP⁺ is not designed for users under age 4. We do not knowingly collect any data from children. If you believe data was shared with us in error, please contact us at tunahanaktay.apps@gmail.com and we will delete it immediately.
+
+## 10. International Transfers
+
+Analytics and crash reports may be processed on cloud servers located outside your country. All processing is done under secure, GDPR-compliant infrastructure.
+
+## 11. Disclaimer About Mental Health Content
+
+UP⁺ provides general psychology and mental wellness information for educational and self-reflection purposes only. It is **not** a medical or therapeutic service, does not diagnose conditions, and does not replace professional advice. If you are experiencing a mental health crisis, please contact a qualified professional or local emergency services.
+
+## 12. Changes to This Policy
+
+We may update this Privacy Policy from time to time. The updated version will be posted here with a revised "Last Updated" date. Continued use of the Application constitutes acceptance of the updated terms.
+
+## 13. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:
+
+Email: tunahanaktay.apps@gmail.com
